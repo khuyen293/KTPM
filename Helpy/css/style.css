@@ -296,14 +296,14 @@ input::placeholder {
 .thongtin{
 	padding-top:40px;
 }
-.chínhach li{
+.chinhach li{
 	font-size:14px;
 	font-weight: 600;
 	list-style: none;
 	padding-right: 100px;
 	text-align: right;
 }
-.chínhach{
+.chinhach{
 	display: block;
 	padding-top: -900px;
 }
